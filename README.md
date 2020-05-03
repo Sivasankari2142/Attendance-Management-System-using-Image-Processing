@@ -1,0 +1,2 @@
+# Attendance-Management-System-using-Image-Processing
+The person must enter his/her ID number and Name ,if it is numeric id number and no special characters containing name,it automatically initializes the camera to detect the face. The face is detected and stored as a sample image of different poses and variations in Gray scale. The attendance is marked in excel sheet.After entering attendance,the images that are stored in the folder is deleted automatically.
